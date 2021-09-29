@@ -1151,7 +1151,7 @@ public final class HMS extends javax.swing.JFrame {
             }
         });
 
-        cpayment.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Cash", "Bikas", "Visa" }));
+        cpayment.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Cash", "Bkash", "Visa" }));
         cpayment.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cpaymentActionPerformed(evt);
