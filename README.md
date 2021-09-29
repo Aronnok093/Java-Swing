@@ -18,3 +18,5 @@ Subject Code:CSE2100--Software Development-II
 4.HMS-Hospital Management Syastem
 
 -------------programmers never die---------------------(AUST)-----------------------------------------
+
+Thanks to Sajib Kumar Saha Joy Sir & Md. Reasad Zaman Chowdhury Sir ❤
