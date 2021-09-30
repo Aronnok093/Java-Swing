@@ -27,8 +27,8 @@ public final class HMS extends javax.swing.JFrame {
         showTime();
         updateCombooD(); // calling combobox in constructor
         //icon();
-        updateCombooP();
-        updateCombooT();
+        //updateCombooP();
+        //updateCombooT();
     }
        //Date
      void showDate(){
@@ -2311,6 +2311,7 @@ public final class HMS extends javax.swing.JFrame {
 
     private void btnPatientFrmActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnPatientFrmActionPerformed
         // TODO add your handling code here:
+        updateCombooT();
         jTabbedPane1.setSelectedIndex(2);
     }//GEN-LAST:event_btnPatientFrmActionPerformed
 
@@ -2340,7 +2341,9 @@ public final class HMS extends javax.swing.JFrame {
 
     private void btnDoctorFrmActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnDoctorFrmActionPerformed
            // TODO add your handling code here:
+          updateCombooP();
           jTabbedPane1.setSelectedIndex(4);
+         
     }//GEN-LAST:event_btnDoctorFrmActionPerformed
 
     private void adminNameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_adminNameActionPerformed
