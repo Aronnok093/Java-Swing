@@ -1,25 +1,27 @@
 # JavaProject
+### Ahsanullah University of Science and Technology 
+Author:<br/>
+Name:                    ID
+-----------------------|--------------
+MD Fardin Jaman Aronock| ID:190204093
 
-Author:
-MD Fardin Jaman Aronock
-Aust CSE-44
-ID:190204093
-Date:28/sep/2021(PSG VS MC)--UCL group match 
+_Date:28/sep/2021(PSG VS MC)--UCL group match <br/>_
 
-Subject Code:CSE2100--Software Development-II
+Subject Code:CSE2100--Software Development-II<br/>
 
-1.This project is created using netbeans IDE.But you can run this project whthout IDE by running HMS.jar file inside dist folder.
+1.This project is created using netbeans IDE.But you can run this project whthout IDE by running HMS.jar file inside dist folder.<br/>
 2.Install mySql and import .sql file form folder named "MySql Data File".
-3.Element:
-	->Java Swing
-	->Mysql
-	->Netbeans version 8.2
+3.Element:<br/>
+	:point_right:Java Swing<br/>
+	:point_right:Mysql
+	:point_right:Netbeans version 8.2<br/>
 
-4.HMS-Hospital Management Syastem
+4.HMS-Hospital Management Syastem<br/>
 
 -------------programmers never die---------------------(AUST)-----------------------------------------
 
-Thanks to Sajib Kumar Saha Joy Sir & Md. Reasad Zaman Chowdhury Sir ❤
-![Screenshot (82)](https://user-images.githubusercontent.com/64925270/135329221-ae090c86-278d-4e3b-865c-eef9e83a6a88.png)
-![Screenshot (83)](https://user-images.githubusercontent.com/64925270/135329240-b7832397-5fc2-411a-8474-7c260aaf3e15.png)
-![Screenshot (84)](https://user-images.githubusercontent.com/64925270/135329253-3d74f42a-4859-4e69-b523-1dd05061ad2a.png)
+:love_letter:Thanks to Sajib Kumar Saha Joy Sir & Md. Reasad Zaman Chowdhury Sir <br/>
+:camera:SnapShorts:<br/>
+![Screenshot (82)](https://user-images.githubusercontent.com/64925270/135329221-ae090c86-278d-4e3b-865c-eef9e83a6a88.png)<br/>
+![Screenshot (83)](https://user-images.githubusercontent.com/64925270/135329240-b7832397-5fc2-411a-8474-7c260aaf3e15.png)<br/>
+![Screenshot (84)](https://user-images.githubusercontent.com/64925270/135329253-3d74f42a-4859-4e69-b523-1dd05061ad2a.png)<br/>
