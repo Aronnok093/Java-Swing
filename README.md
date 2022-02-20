@@ -9,14 +9,14 @@ MD Fardin Jaman Aronock| ID:190204093
 
 _Date:28/sep/2021(PSG VS MC)--UCL group match <br/>_
 
-Subject Code:CSE2100--Software Development-II<br/>
+### Subject: CSE2100 Software Development-II <br/>
 
 1.This project is created using netbeans IDE.But you can run this project whthout IDE by running HMS.jar file inside dist folder.<br/>
 2.Install mySql and import .sql file form folder named "MySql Data File".
 3.Element:<br/>
-	:point_right:Java Swing<br/>
-	:point_right:Mysql
-	:point_right:Netbeans version 8.2<br/>
+     ```:point_right:Java Swing<br/>
+	:point_right:Mysql<br/>
+	:point_right:Netbeans version 8.2<br/>```
 
 4.HMS-Hospital Management Syastem<br/>
 
