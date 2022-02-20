@@ -6,6 +6,9 @@ Name:                  | ID
 -----------------------|--------------
 MD Fardin Jaman Aronock| ID:190204093
 
+Contact: <br/>
+
+  |kfardin0@gmail.com
 
 _Date:28/sep/2021(PSG VS MC)--UCL group match <br/>_
 
@@ -20,9 +23,7 @@ _Date:28/sep/2021(PSG VS MC)--UCL group match <br/>_
 
 4.HMS-Hospital Management Syastem<br/>
 
--------------programmers never die---------------------(AUST)-----------------------------------------
-
-:love_letter:Thanks to Sajib Kumar Saha Joy Sir & Md. Reasad Zaman Chowdhury Sir <br/>
+_:love_letter:Thanks to Sajib Kumar Saha Joy Sir & Md. Reasad Zaman Chowdhury Sir <br/>_
 :camera:SnapShorts:<br/>
 ![Screenshot (82)](https://user-images.githubusercontent.com/64925270/135329221-ae090c86-278d-4e3b-865c-eef9e83a6a88.png)<br/>
 ![Screenshot (83)](https://user-images.githubusercontent.com/64925270/135329240-b7832397-5fc2-411a-8474-7c260aaf3e15.png)<br/>
