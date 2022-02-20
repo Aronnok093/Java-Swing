@@ -1,4 +1,4 @@
-# JavaProject
+# Java Swing
 ### Ahsanullah University of Science and Technology 
 Author:<br/>
 
