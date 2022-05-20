@@ -8,7 +8,7 @@ MD Fardin Jaman Aronock| ID:190204093
 Aninda Mazumder        | ID:190204100
 
 Contact::e-mail: <br/>
-
+     |aninda2du@gmail.com
      |kfardin0@gmail.com
 
 _Date:28/sep/2021(PSG VS MC) UCL group match <br/>_
